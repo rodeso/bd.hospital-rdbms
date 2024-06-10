@@ -1,2 +1,2 @@
 # detect .sql as SQLite
-*.sql linguist-language=SQLITE
+*.sql linguist-language=SQL
